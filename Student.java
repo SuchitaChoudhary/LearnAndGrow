@@ -6,6 +6,10 @@ class A
   {
     System.out.println("Rollnumber"+a);
   }
+  void readRollNo(String a)
+  {
+    System.out.println("name"+a);
+  }
 }
 public class Student
 {
